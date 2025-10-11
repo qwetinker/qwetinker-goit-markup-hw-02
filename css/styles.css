@@ -1,0 +1,58 @@
+body {
+  color: #434455;
+  font-family: "Roboto", "Railway", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  background-color: #ffffff;
+  font-weight: regular;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 36;
+  letter-spacing: 2%;
+  font-weight: bold;
+}
+h3 {
+  font-size: 20px;
+  font-weight: medium;
+  letter-spacing: 2%;
+}
+
+a:hover,
+a:active {
+  color: #404bbf;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:active,
+button:hover {
+  background-color: #404bbf;
+}
+
+header a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+#hero {
+  color: white;
+  background-color: #2e2f42;
+}
+#hero button {
+  background-color: #4d5ae5;
+  color: white;
+}
+#advantages h3 {
+  color: #2e2f42;
+}
