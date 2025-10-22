@@ -19,12 +19,6 @@ button {
   border: none;
   font-family: inherit;
 }
-
-button:focus,
-button:hover {
-  background-color: #404bbf;
-}
-
 img {
   max-width: 100%;
 }
@@ -60,7 +54,9 @@ img {
   color: #2e2f42;
 }
 
-.nav-list {
+.hero-button:focus,
+.hero-button:hover {
+  background-color: #404bbf;
 }
 
 .nav-link {
