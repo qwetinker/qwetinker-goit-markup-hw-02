@@ -20,6 +20,11 @@ button {
   font-family: inherit;
 }
 
+button:focus,
+button:hover {
+  background-color: #404bbf;
+}
+
 img {
   max-width: 100%;
 }
